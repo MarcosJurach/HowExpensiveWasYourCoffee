@@ -40,4 +40,3 @@ We used a variety of instruments, libraries and models to achieve the aforementi
 Creating a reliable model to predict revenue is pretty difficult with the amount of data up until now.
 
 The useful model we got is enough to justify some decision on the management and marketing team, but the prediction will be more in a abroad direction instead of a specific revenue. 
-
