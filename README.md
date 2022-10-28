@@ -1,6 +1,6 @@
 <h1>Project Maintenance & Contact Details</h1>
 
-The people contributed to this project are Alberto Alabau and Marcos Jurach as part of our mid-term analysis project of our Ironhack bootcamp.
+The people that contributed to this project are Alberto Alabau and Marcos Jurach as part of our mid-term analysis project of our Ironhack bootcamp.
 
 <h1>What are you going to see on this project?</h1>
 
